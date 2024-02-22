@@ -25,9 +25,9 @@ license:       creative commons CC-BY-NC-SA
    ///
    -->
    <subset name="distribution" displayName="Distribution">
+      <include name="jelos" displayName="JELOS" />
       <include name="batocera" displayName="Batocera" />
       <include name="retrobat" displayName="Retrobat" />
-      <include name="jelos" displayName="JELOS" />
    </subset>
 
    <!--
@@ -60,6 +60,8 @@ license:       creative commons CC-BY-NC-SA
       <include name="16-9" displayName="16:9" />
       <!--<include name="16-10" displayName="16:10" />
       <include name="4-3" displayName="4:3" />
+      <include name="3-2" displayName="3:2" />
+      <include name="5-3" displayName="5:3" />
       <include name="1-1" displayName="1:1" />-->
    </subset>
 
@@ -511,7 +513,7 @@ license:       creative commons CC-BY-NC-SA
    Include: Aspect Ratio
    ///
    -->
-   <include ifSubset="aspect-ratio:16-9">./aspect-ratio-16-9.xml</include>
-   <include ifSubset="aspect-ratio:1-1">./aspect-ratio-1-1.xml</include>
+   <!--<include ifSubset="aspect-ratio:16-9">./aspect-ratio-16-9.xml</include> -->
+   <!--<include ifSubset="aspect-ratio:1-1">./aspect-ratio-1-1.xml</include>-->
 
 </theme>
