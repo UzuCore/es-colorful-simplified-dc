@@ -23,10 +23,10 @@ based on 1920x1080
       </image>
    </view>
    <variables ifSubset="font-size:medium">
-      <helpSystemFontSize>0.025925925925926</helpSystemFontSize><!-- 28 -->
+      <helpSystemFontSize>0.026</helpSystemFontSize><!-- 28 -->
    </variables>
    <variables ifSubset="font-size:large">
-      <helpSystemFontSize>0.031481481481481</helpSystemFontSize><!-- 34 -->
+      <helpSystemFontSize>0.0315</helpSystemFontSize><!-- 34 -->
    </variables>
 
    <!--
@@ -56,7 +56,7 @@ based on 1920x1080
       <text name="system-label" extra="true">
          <pos>0.057291666666667 0.097222222222222</pos><!-- 110 105 -->
          <size>0.395833333333333 0.025925925925926</size><!-- 760 -->
-         <fontSize>0.031481481481481</fontSize><!-- 34 -->
+         <fontSize>0.0315</fontSize><!-- 34 -->
       </text>
       <text name="system-name" extra="true">
          <pos>0.057291666666667 0.139814814814815</pos><!-- 110 151 -->
@@ -66,13 +66,13 @@ based on 1920x1080
       <text name="system-description" extra="true">
          <pos>0.057291666666667 0.509259259259259</pos><!-- 110 550 -->
          <size>0.291666666666667 0.203703703703704</size><!-- 560 220 -->
-         <fontSize>0.038888888888889</fontSize><!-- 42 -->
+         <fontSize>0.039</fontSize><!-- 42 -->
          <lineSpacing>1.25</lineSpacing>
       </text>
       <text name="systemInfo">
          <pos>0.057291666666667 0.768518518518519</pos><!-- 110 830 -->
          <size>0.34375 0</size><!-- 660 - -->
-         <fontSize>0.038888888888889</fontSize><!-- 42 -->
+         <fontSize>0.039</fontSize><!-- 42 -->
          <lineSpacing>1</lineSpacing>
       </text>
       <carousel name="systemcarousel">
@@ -81,10 +81,10 @@ based on 1920x1080
       </carousel>
    </view>
    <variables ifSubset="font-size:medium">
-      <systemSystemNameFontSize>0.055555555555556</systemSystemNameFontSize><!-- 60 -->
+      <systemSystemNameFontSize>0.0555</systemSystemNameFontSize><!-- 60 -->
    </variables>
    <variables ifSubset="font-size:large">
-      <systemSystemNameFontSize>0.062962962962963</systemSystemNameFontSize><!-- 68 -->
+      <systemSystemNameFontSize>0.063</systemSystemNameFontSize><!-- 68 -->
    </variables>
 
    <!--
@@ -107,17 +107,17 @@ based on 1920x1080
       </textlist>
    </view>
    <variables ifSubset="font-size:medium">
-      <gamelistSystemNameFontSize>0.040740740740741</gamelistSystemNameFontSize><!-- 44 -->
+      <gamelistSystemNameFontSize>0.0407</gamelistSystemNameFontSize><!-- 44 -->
       <gamelistPos>0.046875 0.212962962962963</gamelistPos><!-- 90 230 -->
       <gamelistSize>0.3125 0.601851851851852</gamelistSize><!-- 600 650 -->
-      <gamelistFontSize>0.033333333333333</gamelistFontSize><!-- 36 -->
+      <gamelistFontSize>0.0333</gamelistFontSize><!-- 36 -->
       <gamelistLineSpacing>1.5</gamelistLineSpacing>
    </variables>
    <variables ifSubset="font-size:large">
-      <gamelistSystemNameFontSize>0.048148148148148</gamelistSystemNameFontSize><!-- 52 -->
+      <gamelistSystemNameFontSize>0.048</gamelistSystemNameFontSize><!-- 52 -->
       <gamelistPos>0.046875 0.240740740740741</gamelistPos><!-- 90 260 -->
       <gamelistSize>0.3125 0.574074074074074</gamelistSize><!-- 600 620 -->
-      <gamelistFontSize>0.042592592592593</gamelistFontSize><!-- 46 -->
+      <gamelistFontSize>0.0426</gamelistFontSize><!-- 46 -->
       <gamelistLineSpacing>1.5</gamelistLineSpacing>
    </variables>
 
@@ -243,12 +243,12 @@ based on 1920x1080
       </video>
    </view>
    <variables ifSubset="font-size:medium">
-      <gamelistDescriptionFontSize>0.033333333333333</gamelistDescriptionFontSize><!-- 36 -->
+      <gamelistDescriptionFontSize>0.0333</gamelistDescriptionFontSize><!-- 36 -->
       <gamelistDescriptionLineSpacing>1.3</gamelistDescriptionLineSpacing>
       <gamelistMetadataFontSize>0.024074074074074</gamelistMetadataFontSize><!-- 26 -->
    </variables>
    <variables ifSubset="font-size:large">
-      <gamelistDescriptionFontSize>0.042592592592593</gamelistDescriptionFontSize><!-- 46 -->
+      <gamelistDescriptionFontSize>0.0426</gamelistDescriptionFontSize><!-- 46 -->
       <gamelistDescriptionLineSpacing>1.3</gamelistDescriptionLineSpacing>
       <gamelistMetadataFontSize>0.02962962962963</gamelistMetadataFontSize><!-- 26 -->
    </variables>
