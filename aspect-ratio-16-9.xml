@@ -26,7 +26,7 @@ based on 1920x1080
       <helpSystemFontSize>0.026</helpSystemFontSize><!-- 28 -->
    </variables>
    <variables ifSubset="font-size:large">
-      <helpSystemFontSize>0.0315</helpSystemFontSize><!-- 34 -->
+      <helpSystemFontSize>0.0365</helpSystemFontSize><!-- 34 -->
    </variables>
 
    <!--
@@ -111,14 +111,14 @@ based on 1920x1080
       <gamelistPos>0.046875 0.212962962962963</gamelistPos><!-- 90 230 -->
       <gamelistSize>0.3125 0.601851851851852</gamelistSize><!-- 600 650 -->
       <gamelistFontSize>0.0333</gamelistFontSize><!-- 36 -->
-      <gamelistLineSpacing>1.5</gamelistLineSpacing>
+      <gamelistLineSpacing>1.4</gamelistLineSpacing>
    </variables>
    <variables ifSubset="font-size:large">
-      <gamelistSystemNameFontSize>0.048</gamelistSystemNameFontSize><!-- 52 -->
+      <gamelistSystemNameFontSize>0.058</gamelistSystemNameFontSize><!-- 52 -->
       <gamelistPos>0.046875 0.240740740740741</gamelistPos><!-- 90 260 -->
       <gamelistSize>0.3125 0.574074074074074</gamelistSize><!-- 600 620 -->
-      <gamelistFontSize>0.0426</gamelistFontSize><!-- 46 -->
-      <gamelistLineSpacing>1.5</gamelistLineSpacing>
+      <gamelistFontSize>0.0505</gamelistFontSize><!-- 46 -->
+      <gamelistLineSpacing>1.4</gamelistLineSpacing>
    </variables>
 
    <!--

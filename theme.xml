@@ -24,7 +24,7 @@ license:       creative commons CC-BY-NC-SA
    Subset: Distribution
    ///
    -->
-   <subset name="distribution" displayName="Distribution">
+   <subset name="distribution" displayName="배포판">
       <include name="jelos" displayName="JELOS" />
 	  <include name="batocera" displayName="Batocera" />
       <include name="retrobat" displayName="Retrobat" />
@@ -42,13 +42,33 @@ license:       creative commons CC-BY-NC-SA
       <fontSemiBold>./_inc/fonts/Gilroy-SemiBold.ttf</fontSemiBold>
       <fontBold>./_inc/fonts/Gilroy-Bold.ttf</fontBold>
       <fontHelpSystem>./_inc/fonts/Akrobat-Bold.ttf</fontHelpSystem>
-      <menuFontBold>./_inc/fonts/Oxygen-Bold.ttf</menuFontBold>
-      <menuFontLight>./_inc/fonts/Oxygen-Light.ttf</menuFontLight>
-      <menuFontRegular>./_inc/fonts/Oxygen-Regular.ttf</menuFontRegular>
+      <menuFontBold>./_inc/fonts/NanumSquareNeo-cBd.ttf</menuFontBold>
+      <menuFontLight>./_inc/fonts/NanumSquareNeo-aLt.ttf</menuFontLight>
+      <menuFontRegular>./_inc/fonts/NanumSquareNeo-bRg.ttf</menuFontRegular>
       <distributionPath ifSubset="distribution:retrobat">~/.emulationstation/</distributionPath><!-- RetroBat\emulationstation\.emulationstation\ -->
       <distributionPath ifSubset="distribution:jelos">~/roms/jelos/</distributionPath><!-- storage/roms/jelos/ -->
       <distributionPath ifSubset="distribution:batocera">./../../</distributionPath><!-- userdata/ -->
       <themeCustomizationsPath>${distributionPath}theme-customizations/colorful-simplified/</themeCustomizationsPath>
+	  <font_menutitle>0.038</font_menutitle>
+      <font_menutitle ifSubset="aspect-ratio:3-2" >0.038</font_menutitle>
+      <font_menutitle ifSubset="aspect-ratio:4-3" >0.038</font_menutitle>
+      <font_menutitle ifSubset="aspect-ratio:5-3" >0.038</font_menutitle>
+      <font_menufooter>0.025</font_menufooter>
+      <font_menufooter ifSubset="aspect-ratio:3-2" >0.025</font_menufooter>
+      <font_menufooter ifSubset="aspect-ratio:4-3" >0.025</font_menufooter>
+      <font_menufooter ifSubset="aspect-ratio:5-3" >0.025</font_menufooter>
+      <font_menutext>0.042</font_menutext>
+      <font_menutext ifSubset="aspect-ratio:3-2" >0.042</font_menutext>
+      <font_menutext ifSubset="aspect-ratio:4-3" >0.043</font_menutext>
+      <font_menutext ifSubset="aspect-ratio:5-3" >0.044</font_menutext>
+      <font_menutextsmall>0.040</font_menutextsmall>
+      <font_menutextsmall ifSubset="aspect-ratio:3-2" >0.020</font_menutextsmall>
+      <font_menutextsmall ifSubset="aspect-ratio:4-3" >0.026</font_menutextsmall>
+      <font_menutextsmall ifSubset="aspect-ratio:5-3" >0.022</font_menutextsmall>
+      <font_menugroup>0.038</font_menugroup>
+      <font_menugroup ifSubset="aspect-ratio:3-2" >0.038</font_menugroup>
+      <font_menugroup ifSubset="aspect-ratio:4-3" >0.038</font_menugroup>
+      <font_menugroup ifSubset="aspect-ratio:5-3" >0.038</font_menugroup>
    </variables>
 
    <!--
@@ -56,7 +76,7 @@ license:       creative commons CC-BY-NC-SA
    Subset: Aspect Ratio
    ///
    -->
-   <subset name="aspect-ratio" displayName="Aspect Ratio">
+   <subset name="aspect-ratio" displayName="화면비">
       <include name="16-9" displayName="16:9" />
       <!--<include name="16-10" displayName="16:10" />
       <include name="4-3" displayName="4:3" />
@@ -70,7 +90,7 @@ license:       creative commons CC-BY-NC-SA
    Subset: Color Scheme
    ///
    -->
-   <subset name="color-scheme" displayName="Color Scheme">
+   <subset name="color-scheme" displayName="컬러셋">
       <include name="colorful" displayName="Colorful" />
       <include name="light" displayName="Light" />
       <include name="retro-bright" displayName="RetroBright" />
@@ -85,9 +105,9 @@ license:       creative commons CC-BY-NC-SA
    Subset: Font Size
    ///
    -->
-   <subset name="font-size" displayName="Font Size">
-      <include name="medium" displayName="Medium" />
-      <include name="large" displayName="Large" />
+   <subset name="font-size" displayName="폰트크기">
+      <include name="large" displayName="크게" />
+      <include name="medium" displayName="보통" />
    </subset>
 
    <!--
@@ -95,9 +115,9 @@ license:       creative commons CC-BY-NC-SA
    Subset: Gamelist View Style
    ///
    -->
-   <subset name="gamelist-view-style" displayName="Gamelist View Style">
-      <include name="metadata-off" displayName="Metadata Off" />
-      <include name="metadata-on" displayName="Metadata On" />
+   <subset name="gamelist-view-style" displayName="게임목록 보기">
+      <include name="metadata-off" displayName="설명 끄기" />
+      <include name="metadata-on" displayName="설명 켜기" />
    </subset>
 
    <!--
@@ -434,29 +454,29 @@ license:       creative commons CC-BY-NC-SA
    <view name="menu">
       <menuText name="menutitle">
          <fontPath>${menuFontBold}</fontPath>
-         <fontSize>0.03</fontSize>
+         <fontSize>${font_menutitle}</fontSize>
          <color>ffffff</color>
       </menuText>
       <menuText name="menufooter">
          <fontPath>${menuFontLight}</fontPath>
-         <fontSize>0.025</fontSize>
+         <fontSize>${font_menufooter}</fontSize>
          <color>ffffff77</color>
       </menuText>
       <menuText name="menutext">
          <fontPath>${menuFontBold}</fontPath>
-         <fontSize>0.035</fontSize>
+         <fontSize>${font_menutext}</fontSize>
          <color>ffffff77</color>
          <separatorColor>ffffff11</separatorColor>
          <selectedColor>ffffff</selectedColor>
       </menuText>
       <menuTextSmall name="menutextsmall">
          <fontPath>${menuFontBold}</fontPath>
-         <fontSize>0.025</fontSize>
+         <fontSize>${font_menutextsmall}</fontSize>
          <color>ffffff77</color>
       </menuTextSmall>
       <menuGroup name="menugroup">
          <fontPath>${menuFontRegular}</fontPath>
-         <fontSize>0.0325</fontSize>
+         <fontSize>${font_menugroup}</fontSize>
          <color>ffffff</color>
          <separatorColor>ffffff99</separatorColor>
          <backgroundColor>00000000</backgroundColor>
@@ -464,7 +484,7 @@ license:       creative commons CC-BY-NC-SA
       </menuGroup>
       <menuBackground name="menubg">
          <color>111111</color>
-         <cornerSize>20 20</cornerSize>
+         <cornerSize>10 10</cornerSize>
       </menuBackground>
       <menuIcons name="menuicons">
          <iconSystem>./_inc/images/menu-icon-system.svg</iconSystem>
