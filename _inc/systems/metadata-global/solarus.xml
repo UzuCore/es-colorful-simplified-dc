@@ -1,15 +1,15 @@
 <theme>
    <variables>
       <systemName>Solarus</systemName>
-      <systemDescription>Solarus was specifically designed with cult 2D action-RPG classics in mind, such as The Legend of Zelda: A Link to the Past and Secret of Mana on the Super Nintendo, or Soleil on the Sega Megadrive/Genesis.
+      <systemDescription>Solarus는 슈퍼 닌텐도의 젤다의 전설: 과거로의 연결과 마나의 비밀, 세가 메가드라이브/제네시스의 솔레일과 같은 컬트 2D 액션 RPG 고전을 염두에 두고 특별히 설계되었습니다.
 
-The engine is programmed in C++, with the SDL library and an OpenGL backend. Games made with Solarus are called quests, and are programmed in Lua.
+엔진은 SDL 라이브러리와 OpenGL 백엔드를 사용하여 C++로 프로그래밍됩니다. Solarus로 만든 게임은 퀘스트라고 하며 Lua로 프로그래밍됩니다.
 
-The engine does all the heavy computations (for example, collision checks) and the low-level operations like drawing the screen, animating sprites and playing sounds.
+엔진은 모든 무거운 계산(예: 충돌 검사)과 화면 그리기, 스프라이트 애니메이션, 사운드 재생과 같은 저수준 작업을 수행합니다.
 
-As a quest maker, you are not much interested in implementing these algorithms. On the contrary, you want to define the game logic. Your Lua scripts describe the behavior of enemies, what happens when pressing a switch on a specific map. They will also implement such things as the title screen and the head-up display.
+퀘스트 제작자로서 이러한 알고리즘을 구현하는 데는 관심이 없습니다. 반대로 게임 로직을 정의하고 싶을 것입니다. Lua 스크립트는 적의 행동, 특정 맵에서 스위치를 누를 때 발생하는 일을 설명합니다. 또한 타이틀 화면과 헤드업 디스플레이와 같은 것도 구현합니다.
 
-Both parts (the C++ engine and the Lua scripts of your quest) communicate through the Solarus Lua API. The communication works in both ways: you can call functions of the engine (example: you want to move a non-playing character) and the engine calls your own functions (example: be informed that an enemy was just killed). But before using this Solarus API, you have to learn the basics of Lua (easy and minimal, yet powerful language).</systemDescription>
+두 부분(C++ 엔진과 퀘스트의 Lua 스크립트)은 Solarus Lua API를 통해 통신합니다. 통신은 두 가지 방식으로 작동합니다. 엔진의 함수를 호출할 수 있고(예: 플레이하지 않는 캐릭터를 움직이고 싶을 때) 엔진이 사용자의 함수를 호출합니다(예: 적이 방금 죽었다는 알림). 하지만 이 Solarus API를 사용하기 전에 Lua의 기본(쉽고 간소하지만 강력한 언어)을 배워야 합니다.</systemDescription>
       <systemManufacturer>Christopho</systemManufacturer>
       <systemReleaseYear>2021</systemReleaseYear>
       <systemReleaseDate>2021-04-06</systemReleaseDate>

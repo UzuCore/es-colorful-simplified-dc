@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>Sega 32X</systemName>
-      <systemDescription>The 32X is an add-on for the Sega Mega Drive/Genesis video game console. Codenamed "Project Mars", the 32X was designed to expand the power of the Mega Drive/Genesis and serve as a transitional console into the 32-bit era until the release of the Sega Saturn. Independent of the console, the 32X uses its own ROM cartridges and has its own library of games. It was distributed under the name Super 32X in Japan, Genesis 32X in North America, Mega Drive 32X in the PAL region, and Mega 32X in Brazil.
+      <systemDescription>32X는 세가 메가 드라이브/제네시스 비디오 게임 콘솔용 애드온입니다. "Project Mars"라는 코드명을 가진 32X는 메가 드라이브/제네시스의 성능을 확장하고 세가 새턴이 출시될 때까지 32비트 시대로의 전환 콘솔 역할을 하도록 설계되었습니다. 콘솔과 별도로 32X는 자체 ROM 카트리지를 사용하고 자체 게임 라이브러리를 보유하고 있습니다. 일본에서는 Super 32X, 북미에서는 Genesis 32X, PAL 지역에서는 Mega Drive 32X, 브라질에서는 Mega 32X라는 이름으로 배포되었습니다.
 
-Unveiled by Sega at June 1994's Consumer Electronics Show, the 32X was presented as a low-cost option for consumers looking to play 32-bit games. It was developed in response to the Atari Jaguar and concerns that the Saturn would not make it to market by the end of 1994. Though it was conceived as an entirely new console, at the suggestion of Sega of America executive Joe Miller and his team, it was converted into an add-on for the Genesis and made more powerful. The final design contained two 32-bit central processing units and a 3D graphics processor.</systemDescription>
+세가가 1994년 6월 가전제품 박람회에서 공개한 32X는 32비트 게임을 플레이하려는 소비자를 위한 저렴한 옵션으로 선보였습니다. Atari Jaguar와 Saturn이 1994년 말까지 시장에 출시되지 않을 것이라는 우려에 대응하여 개발되었습니다. Sega of America 임원인 Joe Miller와 그의 팀의 제안에 따라 완전히 새로운 콘솔로 구상되었지만 Genesis의 애드온으로 전환되어 더욱 강력해졌습니다. 최종 설계에는 32비트 중앙 처리 장치 두 개와 3D 그래픽 프로세서가 포함되었습니다.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1994</systemReleaseYear>
       <systemReleaseDate>1994-12-03</systemReleaseDate>

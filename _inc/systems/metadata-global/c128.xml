@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Commodore 128</systemName>
-      <systemDescription>The Commodore 128, also known as the C128, C-128, C= 128, is the last 8-bit home computer that was commercially released by Commodore. Introduced in January 1985 at the CES in Las Vegas, it appeared three years after its predecessor, the Commodore 64, the bestselling computer of the 1980s.</systemDescription>
+      <systemDescription>코모도어 128은 C128, C-128, C=128로도 알려져 있으며, 코모도어가 상업적으로 출시한 마지막 8비트 홈 컴퓨터입니다. 1985년 1월 라스베이거스 CES에서 소개되었으며, 1980년대 베스트셀러 컴퓨터인 코모도어 64보다 3년 늦게 출시되었습니다.</systemDescription>
       <systemManufacturer>Commodore</systemManufacturer>
       <systemReleaseYear>1985</systemReleaseYear>
       <systemReleaseDate>1985</systemReleaseDate>

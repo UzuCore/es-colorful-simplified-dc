@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Commander Genius</systemName>
-      <systemDescription>Commander Genius is a software piece that interprets the Commander Keen and Cosmos the Cosmic Adventure series. As fans and developers we try to implement new features, improve the gameplay and give players an experience that feels like playing the original game but a bit more refreshing.</systemDescription>
+      <systemDescription>Commander Genius는 Commander Keen과 Cosmos the Cosmic Adventure 시리즈를 해석한 소프트웨어입니다. 팬과 개발자로서 우리는 새로운 기능을 구현하고, 게임플레이를 개선하고, 플레이어에게 오리지널 게임을 플레이하는 것 같은 느낌을 주지만 조금 더 상쾌한 경험을 제공하려고 노력합니다.</systemDescription>
       <systemManufacturer>Gerstrong</systemManufacturer>
       <systemReleaseYear>2008</systemReleaseYear>
       <systemReleaseDate>2008</systemReleaseDate>

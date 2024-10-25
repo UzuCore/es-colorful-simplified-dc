@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>TIC-80</systemName>
-      <systemDescription>TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games. There are built-in tools for development: code, sprites, maps, sound editors and the command line, which is enough to create a mini retro game. At the exit you will get a cartridge file, which can be stored and played on the website. Also, the game can be packed into a player that works on all popular platforms and distribute as you wish. To make a retro styled game the whole process of creation takes place under some technical limitations: 240x136 pixels display, 16 color palette, 256 8x8 color sprites, 4 channel sound and etc.</systemDescription>
+      <systemDescription>TIC-80은 작은 게임을 만들고, 플레이하고, 공유하기 위한 무료 오픈 소스 판타지 컴퓨터입니다. 개발을 위한 내장 도구가 있습니다: 코드, 스프라이트, 맵, 사운드 편집기, 명령줄, 이것만으로도 미니 레트로 게임을 만들기에 충분합니다. 종료 시 카트리지 파일을 받게 되며, 이 파일은 웹사이트에 저장하고 플레이할 수 있습니다. 또한, 게임은 모든 인기 플랫폼에서 작동하고 원하는 대로 배포할 수 있는 플레이어에 패키징할 수 있습니다. 레트로 스타일 게임을 만들기 위해 전체 제작 과정은 몇 가지 기술적 제한 하에 진행됩니다: 240x136 픽셀 디스플레이, 16색 팔레트, 256개의 8x8 색상 스프라이트, 4채널 사운드 등</systemDescription>
       <systemManufacturer>Vadim Grigoruk</systemManufacturer>
       <systemReleaseYear>2017</systemReleaseYear>
       <systemReleaseDate>2017</systemReleaseDate>

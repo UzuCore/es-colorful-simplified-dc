@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Kodi</systemName>
-      <systemDescription>Kodi is a free and open-source media player software application developed by the XBMC Foundation, a non-profit technology consortium. Kodi is available for multiple operating systems and hardware platforms, with a software 10-foot user interface for use with televisions and remote controls.</systemDescription>
+      <systemDescription>Kodi는 비영리 기술 컨소시엄인 XBMC Foundation에서 개발한 무료 오픈 소스 미디어 플레이어 소프트웨어 애플리케이션입니다. Kodi는 여러 운영 체제와 하드웨어 플랫폼에서 사용할 수 있으며, TV와 리모컨에 사용할 수 있는 소프트웨어 10피트 사용자 인터페이스가 있습니다.</systemDescription>
       <systemManufacturer>XBMC Foundation</systemManufacturer>
       <systemReleaseYear>2002</systemReleaseYear>
       <systemReleaseDate>2002</systemReleaseDate>

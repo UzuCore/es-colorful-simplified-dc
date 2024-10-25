@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>ScummVM</systemName>
-      <systemDescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) is a set of game engine recreations. Originally designed to play LucasArts adventure games that use the SCUMM system, it also supports a variety of non-SCUMM games by companies like Revolution Software and Adventure Soft. It was originally written by Ludvig Strigeus. Released under the terms of the GNU General Public License, ScummVM is free software. ScummVM is a reimplementation of the part of the software used to interpret the scripting languages such games used to describe the game world rather than emulating the hardware the games ran on; as such, ScummVM allows the games it supports to be played on platforms other than those for which they were originally released.</systemDescription>
+      <systemDescription>Maniac Mansion Virtual Machine(ScummVM)을 위한 스크립트 생성 유틸리티는 게임 엔진을 재현한 세트입니다. 원래는 SCUMM 시스템을 사용하는 LucasArts 어드벤처 게임을 플레이하기 위해 설계되었지만 Revolution Software 및 Adventure Soft와 같은 회사의 다양한 비 SCUMM 게임도 지원합니다. 원래는 Ludvig Strigeus가 작성했습니다. GNU General Public License의 조건 하에 출시된 ScummVM은 무료 소프트웨어입니다. ScummVM은 게임이 실행되는 하드웨어를 에뮬레이션하는 것이 아니라 게임 세계를 설명하는 데 사용되는 스크립팅 언어를 해석하는 데 사용되는 소프트웨어 부분을 다시 구현한 것입니다. 따라서 ScummVM은 지원하는 게임이 원래 출시된 플랫폼 이외의 플랫폼에서 플레이될 수 있도록 허용합니다.</systemDescription>
       <systemManufacturer>ScummVM</systemManufacturer>
       <systemReleaseYear>2001</systemReleaseYear>
       <systemReleaseDate>2001-10-05</systemReleaseDate>

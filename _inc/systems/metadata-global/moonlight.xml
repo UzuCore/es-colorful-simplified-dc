@@ -1,6 +1,6 @@
 <theme>
    <variables>
-      <systemDescription>Moonlight is an open source implementation of NVIDIA's GameStream protocol. It allows you to play your PC games on almost any device, whether you're in another room or miles away from your gaming rig.</systemDescription>
+      <systemDescription>Moonlight는 NVIDIA의 GameStream 프로토콜의 오픈 소스 구현입니다. 다른 방에 있든 게임 장비에서 멀리 떨어져 있든 거의 모든 기기에서 PC 게임을 즐길 수 있습니다.</systemDescription>
       <systemManufacturer>CWR University</systemManufacturer>
       <systemReleaseYear>2014</systemReleaseYear>
       <systemReleaseDate>2014</systemReleaseDate>

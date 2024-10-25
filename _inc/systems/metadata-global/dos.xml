@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>MS-DOS</systemName>
-      <systemDescription>MS-DOS, short for Microsoft Disk Operating System, was an operating system for x86-based personal computers mostly developed by Microsoft. It was the most commonly used member of the DOS family of operating systems, and was the main operating system for IBM PC compatible personal computers during the 1980s to the mid-1990s, when it was gradually superseded by operating systems offering a graphical user interface (GUI), in various generations of the Microsoft Windows operating system.</systemDescription>
+      <systemDescription>MS-DOS는 Microsoft Disk Operating System의 약자로, 주로 Microsoft에서 개발한 x86 기반 개인용 컴퓨터용 운영 체제였습니다. DOS 계열 운영 체제에서 가장 널리 사용되었으며, 1980년대부터 1990년대 중반까지 IBM PC 호환 개인용 컴퓨터의 주요 운영 체제였습니다. 그 후 Microsoft Windows 운영 체제의 여러 세대에서 그래픽 사용자 인터페이스(GUI)를 제공하는 운영 체제로 점차 대체되었습니다.</systemDescription>
       <systemManufacturer>Microsoft</systemManufacturer>
       <systemReleaseYear>1981</systemReleaseYear>
       <systemReleaseDate>1981-08-01</systemReleaseDate>

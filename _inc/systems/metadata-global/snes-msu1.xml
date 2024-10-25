@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>MSU-1</systemName>
-      <systemDescription>The MSU-1 is a cartridge addon chip (similar to the SuperFx chip) that allows for many enhancements to SNES games including, but not limited to, full-motion video and CD quality sound by adding up to 4GB (yes, 4 gigabytes) of storage for extra content.</systemDescription>
+      <systemDescription>MSU-1은 SNES 게임의 많은 기능 향상을 가능하게 하는 카트리지 애드온 칩(SuperFx 칩과 유사)으로, 최대 4GB(예, 4기가바이트)의 저장 공간을 추가하여 추가 콘텐츠에 대한 풀모션 비디오와 CD 품질의 사운드를 포함하되 이에 국한되지 않습니다.</systemDescription>
       <systemManufacturer>byuu</systemManufacturer>
       <systemReleaseYear>2012</systemReleaseYear>
       <systemReleaseDate>2012</systemReleaseDate>

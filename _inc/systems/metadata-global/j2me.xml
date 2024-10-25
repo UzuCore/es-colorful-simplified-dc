@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>J2ME</systemName>
-      <systemDescription>Java Platform, Micro Edition or Java ME is a computing platform for development and deployment of portable code for embedded and mobile devices (micro-controllers, sensors, gateways, mobile phones, personal digital assistants, TV set-top boxes, printers). Java ME was formerly known as Java 2 Platform, Micro Edition or J2ME. As of December 22, 2006, the Java ME source code is licensed under the GNU General Public License, and is released under the project name phoneME.</systemDescription>
+      <systemDescription>Java Platform, Micro Edition 또는 Java ME는 임베디드 및 모바일 장치(마이크로 컨트롤러, 센서, 게이트웨이, 휴대전화, PDA, TV 셋톱 박스, 프린터)를 위한 휴대용 코드의 개발 및 배포를 위한 컴퓨팅 플랫폼입니다. Java ME는 이전에 Java 2 Platform, Micro Edition 또는 J2ME로 알려져 있었습니다. 2006년 12월 22일 현재 Java ME 소스 코드는 GNU General Public License에 따라 라이선스가 부여되었으며, phoneME라는 프로젝트 이름으로 출시되었습니다.</systemDescription>
       <systemManufacturer>Oracle</systemManufacturer>
       <systemReleaseYear>1998</systemReleaseYear>
       <systemReleaseDate>1998-12-08</systemReleaseDate>

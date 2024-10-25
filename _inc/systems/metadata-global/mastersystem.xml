@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>Master System</systemName>
-      <systemDescription>The Sega Master System is a third-generation 8-bit home video game console manufactured by Sega. It was originally a remodeled export version of the Sega Mark III, the third iteration of the SG-1000 series of consoles, which was released in Japan in 1985 and featured enhanced graphical capabilities over its predecessors. The Master System launched in North America in 1986, followed by Europe in 1987, and Brazil in 1989. A Japanese version of the Master System was also launched in 1987, which features a few enhancements over the export models (and by proxy the original Mark III): a built-in FM audio chip, a rapid-fire switch, and a dedicated port for the 3D glasses. The Master System II, a cheaper model, was released in 1990 in North America and Europe.
+      <systemDescription>세가 마스터 시스템은 세가가 제조한 3세대 8비트 홈 비디오 게임 콘솔입니다. 원래는 세가 마크 III의 개조 수출 버전이었는데, 세가 마크 III는 SG-1000 시리즈 콘솔의 세 번째 반복으로, 1985년 일본에서 출시되었고 이전 모델보다 향상된 그래픽 기능을 특징으로 했습니다. 마스터 시스템은 1986년 북미에서 출시되었고, 1987년 유럽, 1989년 브라질에서 출시되었습니다. 마스터 시스템의 일본어 버전도 1987년에 출시되었는데, 수출 모델(그리고 원래 마크 III의 대리)에 비해 몇 가지 향상된 기능이 있습니다. 내장 FM 오디오 칩, 래피드파이어 스위치, 3D 안경용 전용 포트가 있습니다. 더 저렴한 모델인 마스터 시스템 II는 1990년 북미와 유럽에서 출시되었습니다.
 
-The original Master System models use both cartridges and a credit card-sized format known as Sega Cards. Accessories for the consoles include a light gun and 3D glasses that work with a range of specially designed games. The later Master System II redesign removed the card slot, turning it into a strictly cartridge-only system and is incompatible with the 3D glasses.</systemDescription>
+원래 마스터 시스템 모델은 카트리지와 세가 카드라고 알려진 신용 카드 크기의 형식을 모두 사용합니다. 콘솔용 액세서리에는 라이트 건과 다양한 특수 디자인 게임에서 작동하는 3D 안경이 포함됩니다. 이후의 Master System II 재설계에서는 카드 슬롯을 제거하여 카트리지 전용 시스템으로 엄격하게 전환했으며 3D 안경과 호환되지 않습니다.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1986</systemReleaseYear>
       <systemReleaseDate>1986-09-01</systemReleaseDate>

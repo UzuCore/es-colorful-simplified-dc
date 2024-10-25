@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>CPS-III</systemName>
-      <systemDescription>The CP System III (CPシステムIII, shīpī shisutemu surī) or CPS-3 is an arcade system board that was first used by Capcom in 1996 with the arcade game Red Earth. It was the second successor to the CP System arcade hardware, following the CP System II. It would be the last proprietary system board Capcom would produce before moving on to the Dreamcast-based Naomi platform.</systemDescription>
+      <systemDescription>CP System III(CPシステムIII, shīpī shisutemu surī) 또는 CPS-3는 Capcom에서 1996년 아케이드 게임 Red Earth와 함께 처음 사용한 아케이드 시스템 보드입니다. CP System II에 이어 CP System 아케이드 하드웨어의 두 번째 후속 제품이었습니다. Dreamcast 기반 Naomi 플랫폼으로 이동하기 전에 Capcom이 생산한 마지막 독점 시스템 보드였습니다.</systemDescription>
       <systemManufacturer>Capcom</systemManufacturer>
       <systemReleaseYear>1996</systemReleaseYear>
       <systemReleaseDate>1996-11-21</systemReleaseDate>

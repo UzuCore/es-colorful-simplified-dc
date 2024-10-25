@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>X68000</systemName>
-      <systemDescription>The X68000 (Japanese: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) is a home computer created by Sharp Corporation, first released in 1987, sold only in Japan.
+      <systemDescription>X68000(일본어: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen)은 샤프 코퍼레이션에서 만든 가정용 컴퓨터로, 1987년에 처음 출시되어 일본에서만 판매되었습니다.
 
-The first model features a 10 MHz Motorola 68000 CPU (hence the name), 1 MB of RAM, and no hard drive; the last model was released in 1993 with a 25 MHz Motorola 68030 CPU, 4 MB of RAM, and optional 80 MB SCSI hard drive. RAM in these systems is expandable to 12 MB, though most games and applications do not require more than 2 MB.</systemDescription>
+첫 번째 모델은 10MHz Motorola 68000 CPU(이름에서 유래), 1MB RAM, 하드 드라이브가 없습니다. 마지막 모델은 1993년에 25MHz Motorola 68030 CPU, 4MB RAM, 옵션 80MB SCSI 하드 드라이브와 함께 출시되었습니다. 이러한 시스템의 RAM은 12MB까지 확장할 수 있지만 대부분의 게임과 애플리케이션은 2MB 이상을 필요로 하지 않습니다.</systemDescription>
       <systemManufacturer>Sharp</systemManufacturer>
       <systemReleaseYear>1987</systemReleaseYear>
       <systemReleaseDate>1987-03-01</systemReleaseDate>

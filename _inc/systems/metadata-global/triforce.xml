@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Triforce Arcade System</systemName>
-      <systemDescription>The Triforce (トライフォース) is an arcade board developed in a joint venture between Sega, Nintendo, and Namco. It is based upon the Nintendo GameCube video game console to reduce development costs, and allowed for arcade ports of home console games, and vice versa. It is named after the magical, often sought-after object in Nintendo's popular The Legend of Zelda series.</systemDescription>
+      <systemDescription>Triforce(トライフォース)는 세가, 닌텐도, 남코의 합작으로 개발된 아케이드 보드입니다. 개발 비용을 줄이기 위해 닌텐도 게임큐브 비디오 게임 콘솔을 기반으로 하며, 가정용 콘솔 게임의 아케이드 포팅이 가능했고, 그 반대도 가능합니다. 닌텐도의 인기 있는 젤다의 전설 시리즈에 나오는 마법의, 종종 찾는 물건에서 이름을 따왔습니다.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>2002</systemReleaseYear>
       <systemReleaseDate>2002</systemReleaseDate>

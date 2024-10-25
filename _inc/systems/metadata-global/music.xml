@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Music Player</systemName>
-      <systemDescription>Powered by GMU an open source music player created by Johannes Heimansberg.</systemDescription>
+      <systemDescription>요하네스 하이만스버그가 만든 오픈소스 음악 플레이어인 GMU를 기반으로 합니다.</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>

@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Tomy Tutor</systemName>
-      <systemDescription>The Tomy Tutor, originally sold in Japan as the Pyūta (ぴゅう太) and in the UK as the Grandstand Tutor, is a home computer produced by the Japanese toymaker Tomy. It is architecturally similar, but not identical, to the TI-99/4A, and uses a similar Texas Instruments TMS9900 16-bit CPU. The computer was launched in Japan in 1982, and in the UK and the United States in the next year.</systemDescription>
+      <systemDescription>Tomy Tutor는 원래 일본에서 Pyūta(ぴゅう太)라는 이름으로, 영국에서는 Grandstand Tutor라는 이름으로 판매되었으며, 일본의 장난감 제조업체 Tomy에서 생산한 가정용 컴퓨터입니다. 구조적으로는 TI-99/4A와 유사하지만 동일하지는 않으며, 유사한 Texas Instruments TMS9900 16비트 CPU를 사용합니다. 이 컴퓨터는 1982년 일본에서 출시되었고, 그 다음 해에 영국과 미국에서 출시되었습니다.</systemDescription>
       <systemManufacturer>Tomy</systemManufacturer>
       <systemReleaseYear>1982</systemReleaseYear>
       <systemReleaseDate>1982</systemReleaseDate>

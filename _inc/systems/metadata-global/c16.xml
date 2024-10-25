@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Commodore 16</systemName>
-      <systemDescription>The Commodore 16 is a home computer made by Commodore with a 6502-compatible 7501 or 8501 CPU, released in 1984 and intended to be an entry-level computer to replace the VIC-20.</systemDescription>
+      <systemDescription>코모도어 16은 코모도어가 6502와 호환되는 7501 또는 8501 CPU를 장착하고 1984년에 출시한 가정용 컴퓨터로, VIC-20을 대체하는 보급형 컴퓨터로 제작되었습니다.</systemDescription>
       <systemManufacturer>Commodore</systemManufacturer>
       <systemReleaseYear>1984</systemReleaseYear>
       <systemReleaseDate>1984</systemReleaseDate>

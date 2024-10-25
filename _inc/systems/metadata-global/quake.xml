@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Quake</systemName>
-      <systemDescription>Quake is a first-person shooter game developed by id Software and published by GT Interactive. The first game in the Quake series, it was originally released for MS-DOS, Microsoft Windows and Linux in 1996, followed by Mac OS and Sega Saturn in 1997 and Nintendo 64 in 1998. In the game, players must find their way through various maze-like, medieval environments while battling monsters using an array of weaponry. The overall atmosphere is dark and gritty, with many stone textures and a rusty, capitalized font. Quake takes inspiration from gothic fiction and the works of H. P. Lovecraft.</systemDescription>
+      <systemDescription>Quake는 id Software에서 개발하고 GT Interactive에서 배급한 1인칭 슈팅 게임입니다. Quake 시리즈의 첫 번째 게임으로, 원래는 1996년 MS-DOS, Microsoft Windows, Linux용으로 출시되었고, 그 뒤를 이어 1997년 Mac OS와 Sega Saturn, 1998년 Nintendo 64용으로 출시되었습니다. 이 게임에서 플레이어는 다양한 무기를 사용하여 괴물과 싸우면서 다양한 미로와 같은 중세 환경을 헤쳐나가야 합니다. 전반적인 분위기는 어둡고 칙칙하며, 많은 돌 질감과 녹슨 대문자 글꼴이 있습니다. Quake는 고딕 소설과 H. P. Lovecraft의 작품에서 영감을 얻었습니다.</systemDescription>
       <systemManufacturer>id Software</systemManufacturer>
       <systemReleaseYear>1996</systemReleaseYear>
       <systemReleaseDate>1996-06-22</systemReleaseDate>

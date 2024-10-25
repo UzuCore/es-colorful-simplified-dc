@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>Mega CD</systemName>
-      <systemDescription>The Sega CD, released as the Mega-CD in most regions outside North America and Brazil, is a CD-ROM accessory for the Mega Drive/Genesis designed and produced by Sega as part of the fourth generation of video game consoles. It was released on December 12, 1991 in Japan, October 15, 1992 in North America, and April 2, 1993 in Europe. The Sega CD plays CD-based games and adds hardware functionality such as a faster central processing unit and graphic enhancements like sprite scaling and rotation. It can also play audio CDs and CD+G discs.
+      <systemDescription>세가 CD는 북미와 브라질을 제외한 대부분 지역에서 Mega-CD로 출시되었으며, 세가가 4세대 비디오 게임 콘솔의 일부로 설계하고 생산한 Mega Drive/Genesis용 CD-ROM 액세서리입니다. 일본에서는 1991년 12월 12일, 북미에서는 1992년 10월 15일, 유럽에서는 1993년 4월 2일에 출시되었습니다. 세가 CD는 CD 기반 게임을 플레이하고 더 빠른 중앙 처리 장치와 스프라이트 스케일링 및 회전과 같은 그래픽 향상과 같은 하드웨어 기능을 추가합니다. 오디오 CD와 CD+G 디스크도 재생할 수 있습니다.
 
-The main benefit of CD technology was greater storage, which allowed for games to be nearly 320 times larger than Genesis cartridges. This benefit manifested as full motion video (FMV) games such as the controversial Night Trap, which became a focus of the 1993 congressional hearings on issues of video game violence and ratings. Sega of Japan partnered with JVC to design the Sega CD and refused to consult with Sega of America until the project was complete. Sega of America assembled parts from various "dummy" units to obtain a working prototype. It was redesigned several times by Sega and licensed third-party developers.</systemDescription>
+CD 기술의 주요 이점은 더 큰 저장 공간으로, 이를 통해 게임을 제네시스 카트리지보다 약 320배 더 크게 만들 수 있었습니다. 이러한 이점은 비디오 게임 폭력 및 등급 문제에 대한 1993년 의회 청문회에서 초점이 된 논란의 여지가 있는 Night Trap과 같은 풀모션 비디오(FMV) 게임으로 나타났습니다. 세가 오브 재팬은 세가 CD를 디자인하기 위해 JVC와 협력했고, 프로젝트가 완료될 때까지 세가 오브 아메리카와 협의하는 것을 거부했습니다. 세가 오브 아메리카는 다양한 "더미" 유닛에서 부품을 조립하여 작동하는 프로토타입을 얻었습니다. 세가와 라이선스를 받은 타사 개발자가 여러 번 재설계했습니다.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1993</systemReleaseYear>
       <systemReleaseDate>1993-04-02</systemReleaseDate>

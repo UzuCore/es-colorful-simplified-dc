@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>Atari 800</systemName>
-      <systemDescription>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 as the Atari 400 and Atari 800 and manufactured until 1992. All of the machines in the family are technically similar and differ primarily in packaging. They are based on the MOS Technology 6502 CPU running at 1.79 MHz, and were the first home computers designed with custom coprocessor chips. This architecture enabled graphics and sound more advanced than contemporary machines, and gaming was a major draw. First-person space combat simulator Star Raiders is considered the platform's killer app. The systems launched with plug and play peripherals using the Atari SIO serial bus, an early analog of USB.
+      <systemDescription>Atari 8비트 제품군은 Atari, Inc.에서 1979년에 Atari 400과 Atari 800으로 출시하여 1992년까지 제조된 8비트 홈 컴퓨터 시리즈입니다. 이 제품군의 모든 기계는 기술적으로 유사하며 주로 패키징이 다릅니다. 이들은 1.79MHz에서 실행되는 MOS Technology 6502 CPU를 기반으로 하며, 맞춤형 보조 프로세서 칩으로 설계된 최초의 홈 컴퓨터였습니다. 이 아키텍처는 현대 기계보다 그래픽과 사운드가 더욱 발전했으며, 게임이 주요 매력이었습니다. 1인칭 우주 전투 시뮬레이터 Star Raiders는 이 플랫폼의 킬러 앱으로 간주됩니다. 이 시스템은 USB의 초기 아날로그인 Atari SIO 직렬 버스를 사용하여 플러그 앤 플레이 주변 장치와 함께 출시되었습니다.
 
-The Atari 400 was initially almost half the cost of the Atari 800. Instead of the 800's full-sized keyboard, the 400 has a pressure-sensitive panel. The 800 has a second cartridge slot and a larger case allowing RAM upgrades to 48K. Both models were replaced by the XL series in 1983, then–after the company was sold and reestablished as Atari Corporation–the XE models in 1985. The XL and XE are lighter in construction while having Atari BASIC built-in and 2 joystick ports instead of 4. The 130XE increased the memory to 128 KB of bank-switched RAM.</systemDescription>
+Atari 400은 처음에는 Atari 800의 거의 절반 가격이었습니다. 800의 풀 사이즈 키보드 대신 400에는 압력 감지 패널이 있습니다. 800은 두 번째 카트리지 슬롯과 더 큰 케이스를 갖추고 있어 RAM을 48K로 업그레이드할 수 있습니다. 두 모델 모두 1983년에 XL 시리즈로 대체되었고, 회사가 매각되어 Atari Corporation으로 재설립된 후 1985년에 XE 모델이 출시되었습니다. XL과 XE는 구조가 더 가볍지만 Atari BASIC이 내장되어 있고 조이스틱 포트가 4개가 아닌 2개입니다. 130XE는 메모리를 뱅크 스위치 RAM의 128KB로 늘렸습니다.</systemDescription>
       <systemManufacturer>Atari</systemManufacturer>
       <systemReleaseYear>1979</systemReleaseYear>
       <systemReleaseDate>1979-11-01</systemReleaseDate>

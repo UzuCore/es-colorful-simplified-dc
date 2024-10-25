@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>Fallout 2 Community Edition</systemName>
-      <systemDescription>Fallout 2 Community Edition is a fully working re-implementation of Fallout 2, with the same original gameplay, engine bugfixes, and some quality of life improvements, that works (mostly) hassle-free on multiple platforms.
+      <systemDescription>Fallout 2 Community Edition은 Fallout 2의 완전한 재구현으로, 원래 게임플레이, 엔진 버그 수정, 삶의 질 개선이 동일하며, 여러 플랫폼에서 (대부분) 번거로움 없이 작동합니다.
 
-Popular Fallout 2 total conversion mods are partially supported. Original versions of Nevada and Sonora (that do not rely on extended features provided by Sfall) likely work, although there is no complete walkthrough confirmation yet. Fallout 2 Restoration Project, Fallout Et Tu and Olympus 2207 are not yet supported. Other mods (particularly Resurrection and Yesterday) are not tested.</systemDescription>
+인기 있는 Fallout 2 전체 변환 모드는 부분적으로 지원됩니다. Nevada와 Sonora의 원래 버전(Sfall에서 제공하는 확장 기능에 의존하지 않음)은 작동할 가능성이 있지만 아직 완전한 연습 확인은 없습니다. Fallout 2 Restoration Project, Fallout Et Tu 및 Olympus 2207은 아직 지원되지 않습니다. 다른 모드(특히 Resurrection 및 Yesterday)는 테스트되지 않았습니다.</systemDescription>
       <systemManufacturer>alexbatalov</systemManufacturer>
       <systemReleaseYear>2022</systemReleaseYear>
       <systemReleaseDate>2022-07-12</systemReleaseDate>

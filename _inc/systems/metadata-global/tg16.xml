@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>TurboGrafx-16</systemName>
-      <systemDescription>The TurboGrafx-16, known as the PC Engine in Japan and France, is a 16-bit fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was released in Japan in 1987 and in North America in 1989. The Japanese model was imported and distributed in France in 1989, and the United Kingdom and Spain received a version based on the American model known as simply TurboGrafx. It was the first console released in the 16-bit era, although it used a modified 8-bit CPU. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super Nintendo Entertainment System.
+      <systemDescription>TurboGrafx-16은 일본과 프랑스에서 PC Engine으로 알려져 있으며, Hudson Soft에서 설계하고 NEC Home Electronics에서 판매한 16비트 4세대 가정용 비디오 게임 콘솔입니다. 일본에서는 1987년, 북미에서는 1989년에 출시되었습니다. 일본 모델은 1989년에 프랑스에서 수입되어 유통되었고, 영국과 스페인에서는 간단히 TurboGrafx로 알려진 미국 모델을 기반으로 한 버전을 받았습니다. 16비트 시대에 출시된 최초의 콘솔이었지만, 수정된 8비트 CPU를 사용했습니다. 일본에서는 이 시스템이 Famicom의 경쟁자로 출시되었지만, 미국 출시가 지연되면서 결국 Sega Genesis와 나중에는 Super Nintendo Entertainment System과 경쟁하게 되었습니다.
 
-The TurboGrafx-16 has an 8-bit CPU, a 16-bit video color encoder, and a 16-bit video display controller. The GPUs are capable of displaying 482 colors simultaneously, out of 512. With dimensions of just 14 cm × 14 cm × 3.8 cm (5.5 in × 5.5 in × 1.5 in), the Japanese PC Engine is the smallest major home game console ever made. Games were released on HuCard cartridges and later the CD-ROM optical format with the TurboGrafx-CD add-on.</systemDescription>
+TurboGrafx-16에는 8비트 CPU, 16비트 비디오 컬러 인코더, 16비트 비디오 디스플레이 컨트롤러가 있습니다. GPU는 512색 중 482색을 동시에 표시할 수 있습니다. 14cm x 14cm x 3.8cm(5.5인치 x 5.5인치 x 1.5인치)에 불과한 일본 PC 엔진은 지금까지 만들어진 가장 작은 주요 가정용 게임 콘솔입니다. 게임은 HuCard 카트리지에서 출시되었고 나중에는 TurboGrafx-CD 애드온이 있는 CD-ROM 광학 형식으로 출시되었습니다.</systemDescription>
       <systemManufacturer>NEC</systemManufacturer>
       <systemReleaseYear>1989</systemReleaseYear>
       <systemReleaseDate>1989-08-29</systemReleaseDate>

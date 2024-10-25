@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Cannonball OutRun Engine</systemName>
-      <systemDescription>CannonBall is an souped up game engine for the OutRun arcade game. The original 68000 and Z80 assembler code has been rewritten in C++. This makes it possible to make improvements suitable for modern platforms, including a higher frame-rate and widescreen support. It requires the original ROMs, as these contain elements including the graphics and audio data.</systemDescription>
+      <systemDescription>CannonBall은 OutRun 아케이드 게임을 위한 강화된 게임 엔진입니다. 원래 68000 및 Z80 어셈블러 코드는 C++로 다시 작성되었습니다. 이를 통해 더 높은 프레임 속도 및 와이드스크린 지원을 포함하여 최신 플랫폼에 적합한 개선이 가능해졌습니다. 그래픽 및 오디오 데이터를 포함한 요소가 포함되어 있으므로 원래 ROM이 필요합니다.</systemDescription>
       <systemManufacturer>Chris White</systemManufacturer>
       <systemReleaseYear>2014</systemReleaseYear>
       <systemReleaseDate>2014</systemReleaseDate>

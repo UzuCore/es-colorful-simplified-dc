@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Fallout Community Edition</systemName>
-      <systemDescription>Fallout Community Edition is a fully working re-implementation of Fallout, with the same original gameplay, engine bugfixes, and some quality of life improvements, that works (mostly) hassle-free on multiple platforms.</systemDescription>
+      <systemDescription>Fallout Community Edition은 Fallout을 완벽하게 재구현한 버전으로, 원래 게임플레이, 엔진 버그 수정, 삶의 질을 개선한 부분이 동일하며, (대체로) 여러 플랫폼에서 문제없이 실행됩니다.</systemDescription>
       <systemManufacturer>alexbatalov</systemManufacturer>
       <systemReleaseYear>2023</systemReleaseYear>
       <systemReleaseDate>2023-02</systemReleaseDate>

@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>Commodore Plus/4</systemName>
-      <systemDescription>The Commodore Plus/4 is a home computer released by Commodore International in 1984. The "Plus/4" name refers to the four-application ROM-resident office suite (word processor, spreadsheet, database, and graphing); it was billed as "the productivity computer with software built in".
+      <systemDescription>코모도어 플러스/4는 1984년 코모도어 인터내셔널에서 출시한 가정용 컴퓨터입니다. "플러스/4"라는 이름은 4가지 애플리케이션 ROM 상주 오피스 제품군(워드 프로세서, 스프레드시트, 데이터베이스, 그래프)을 의미하며, "소프트웨어가 내장된 생산성 컴퓨터"로 청구되었습니다.
 
-Internally, the Plus/4 shared the same basic architecture as the lower-end Commodore 16 and 116 models, and was able to use software and peripherals designed for them. The Plus/4 was incompatible with the Commodore 64's software and some of its hardware. Although the Commodore 64 was more established, the Plus/4 was aimed at the more business-oriented part of the personal computer market.</systemDescription>
+내부적으로 플러스/4는 하위 코모도어 16 및 116 모델과 동일한 기본 아키텍처를 공유했으며, 이를 위해 설계된 소프트웨어와 주변 장치를 사용할 수 있었습니다. 플러스/4는 코모도어 64의 소프트웨어 및 일부 하드웨어와 호환되지 않았습니다. 코모도어 64가 더 확립되었지만, 플러스/4는 개인용 컴퓨터 시장의 비즈니스 지향적 부분을 목표로 했습니다.</systemDescription>
       <systemManufacturer>Commodore</systemManufacturer>
       <systemReleaseYear>1984</systemReleaseYear>
       <systemReleaseDate>1984</systemReleaseDate>

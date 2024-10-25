@@ -1,11 +1,11 @@
 <theme>
    <variables>
       <systemName>Atari ST</systemName>
-      <systemDescription>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family. The initial model, the 520ST, saw limited release in April–June 1985 and was widely available in July. The 520ST is the first personal computer to come with a bitmapped color GUI, using a version of Digital Research's GEM released in February 1985. The 1040ST, released in 1986, is the first personal computer to ship with a megabyte of RAM in the base configuration and also the first with a cost-per-kilobyte of less than US$1.
+      <systemDescription>Atari ST는 Atari Corporation의 가정용 컴퓨터 라인이며 Atari 8비트 제품군의 후속 제품입니다. 최초 모델인 520ST는 1985년 4월~6월에 한정 출시되었고 7월에 널리 출시되었습니다. 520ST는 1985년 2월에 출시된 Digital Research의 GEM 버전을 사용하여 비트맵 컬러 GUI를 탑재한 최초의 개인용 컴퓨터입니다. 1986년에 출시된 1040ST는 기본 구성에서 1메가바이트 RAM을 탑재한 최초의 개인용 컴퓨터이며 킬로바이트당 비용이 1달러 미만인 최초의 컴퓨터이기도 합니다.
 
-The Atari ST is part of a mid-1980s generation of home computers that have 16 or 32-bit processors, 256 KB or more of RAM, and mouse-controlled graphical user interfaces. This generation includes the Macintosh, Amiga, Apple IIGS, and in some markets the Acorn Archimedes. "ST" officially stands for "Sixteen/Thirty-two", which refers to the Motorola 68000's 16-bit external bus and 32-bit internals.
+Atari ST는 16비트 또는 32비트 프로세서, 256KB 이상의 RAM, 마우스 제어 그래픽 사용자 인터페이스를 갖춘 1980년대 중반 가정용 컴퓨터 세대에 속합니다. 이 세대에는 Macintosh, Amiga, Apple IIGS가 포함되며 일부 시장에서는 Acorn Archimedes가 포함됩니다. "ST"는 공식적으로 "Sixteen/Thirty-two"의 약자로, Motorola 68000의 16비트 외부 버스와 32비트 내부 버스를 의미합니다.
 
-The ST was sold with either Atari's color monitor or the less expensive monochrome monitor. The system's color graphics modes are only available on the former while the highest-resolution mode needs the monochrome monitor.</systemDescription>
+ST는 Atari의 컬러 모니터 또는 저렴한 흑백 모니터와 함께 판매되었습니다. 이 시스템의 컬러 그래픽 모드는 전자에서만 사용할 수 있는 반면 가장 높은 해상도 모드에는 흑백 모니터가 필요합니다.</systemDescription>
       <systemManufacturer>Atari</systemManufacturer>
       <systemReleaseYear>1985</systemReleaseYear>
       <systemReleaseDate>1985-06-01</systemReleaseDate>

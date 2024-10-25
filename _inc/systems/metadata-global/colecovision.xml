@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>ColecoVision</systemName>
-      <systemDescription>The ColecoVision is a second generation (1976–1992) home video game console developed and distributed by Coleco Industries. It was released in August 1982 in North America at a retail price of $175. The console was later released in Europe (1983). The ColecoVision offered a closer experience to arcade games than its competitors at the time. The console was discontinued in mid-1985.</systemDescription>
+      <systemDescription>ColecoVision은 Coleco Industries에서 개발 및 배포한 2세대(1976-1992) 가정용 비디오 게임 콘솔입니다. 1982년 8월 북미에서 소매가 175달러로 출시되었습니다. 이 콘솔은 나중에 유럽(1983)에서 출시되었습니다. ColecoVision은 당시 경쟁 제품보다 아케이드 게임에 더 가까운 경험을 제공했습니다. 이 콘솔은 1985년 중반에 단종되었습니다.</systemDescription>
       <systemManufacturer>Coleco</systemManufacturer>
       <systemReleaseYear>1982</systemReleaseYear>
       <systemReleaseDate>1982-08-01</systemReleaseDate>

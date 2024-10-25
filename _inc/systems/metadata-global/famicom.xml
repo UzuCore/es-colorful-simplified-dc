@@ -1,13 +1,13 @@
 <theme>
    <variables>
       <systemName>Famicom</systemName>
-      <systemDescription>The Family Computer (ファミリーコンピュータ) or Famicom (ファミコン) hit the Japanese gaming market in 1983. The brainchild of Masayuki Uemura, Famicom was Nintendo’s first cartridge-based home video game console. It became an instant hit, with game titles like legendary designer Shigeru Miyamoto’s arcade classic Donkey Kong fueling sales.
+      <systemDescription>패밀리 컴퓨터(ファミリーコンピュータ) 또는 패미컴(ファミコン)은 1983년 일본 게임 시장에 출시되었습니다. 마사유키 우에무라의 아이디어인 패미컴은 닌텐도 최초의 카트리지 기반 홈 비디오 게임 콘솔이었습니다. 전설적인 디자이너 시게루 미야모토의 아케이드 고전 게임인 돈키콩과 같은 게임 타이틀이 판매를 촉진하면서 즉시 히트를 쳤습니다.
 
-The Famicom began life as the “GameCom” before system designer Masayuki Uemura’s wife suggested the moniker we know and love today. During development several ideas were bandied about, including the concept of creating a powerful home computer complete with a keyboard and disk drive, but ultimately the console became the diminutive red-and-white wonder that has become so iconic over the years; the colour scheme was apparently chosen by Nintendo president Hiroshi Yamauchi after he spotted a billboard advertisement which used the same hues.
+패미컴은 시스템 디자이너 마사유키 우에무라의 아내가 오늘날 우리가 알고 사랑하는 별명을 제안하기 전에 "게임컴"이라는 이름으로 시작되었습니다. 개발 중에 키보드와 디스크 드라이브가 포함된 강력한 홈 컴퓨터를 만드는 개념을 포함하여 여러 가지 아이디어가 떠돌았지만 궁극적으로 콘솔은 수년에 걸쳐 상징이 된 작은 빨간색과 흰색의 경이로운 제품이 되었습니다. 색상 구성표는 닌텐도 사장인 히로시 야마우치가 같은 색조를 사용한 빌보드 광고를 본 후 선택한 것으로 보입니다.
 
-The Famicom was designed to be both cheap and impressive. Nintendo aimed to be thrifty where possible but did not want to sacrifice performance. The aim was for their console to be unsurpassed in terms of quality and cost-effectiveness by their competitors for at least a year, if not longer. The console was purposefully designed to look like a toy – with a design scheme similar to the Game and Watch series of portable games they had released a couple of years prior to the Famicom.
+패미컴은 저렴하면서도 인상적이도록 설계되었습니다. 닌텐도는 가능한 한 검소하게 지내려고 했지만 성능을 희생하고 싶지 않았습니다. 목표는 최소 1년 이상 경쟁사보다 품질과 비용 효율성 면에서 우위를 점하는 것이었습니다. 이 콘솔은 의도적으로 장난감처럼 보이도록 디자인되었습니다. 패미컴보다 몇 년 전에 출시한 휴대용 게임 시리즈인 Game and Watch와 비슷한 디자인 체계를 사용했습니다.
 
-The only direct competition to the Famicom was Sega’s SG-1000, which the Famicom was easily outselling. Within two years the Famicom had already sold 2.5 million units in Japan. This success emboldened Nintendo, who started to look towards international markets. Overall Nintendo sold more than 10 million units in Japan.</systemDescription>
+패미컴의 유일한 직접 경쟁자는 세가의 SG-1000이었는데, 패미컴은 이보다 훨씬 많이 팔렸습니다. 2년 만에 패미컴은 일본에서 250만 대가 판매되었습니다. 이러한 성공은 닌텐도를 고무시켰고, 닌텐도는 국제 시장을 모색하기 시작했습니다. 전반적으로 닌텐도는 일본에서 1,000만 대 이상을 판매했습니다.</systemDescription>
       <systemDescriptionSource>https://www.museumofplay.org/blog/first-there-was-famicom/, https://retrogaming.tech.blog/2016/12/03/a-history-of-the-nintendo-famicom/, https://www.nintendolife.com/news/2013/07/feature_the_history_of_the_famicom_the_console_that_changed_nintendos_fortunes</systemDescriptionSource>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1983</systemReleaseYear>

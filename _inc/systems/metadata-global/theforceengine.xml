@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>The Force Engine</systemName>
-      <systemDescription>The Force Engine is a project with the goal to reverse engineer and rebuild the Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws. The project will include modern, built-in tools, such as a level editor and will make it easy to play Dark Forces and Outlaws on modern systems as well as the many community mods designed to work with the original games.
+      <systemDescription>Force Engine은 Jedi Engine을 현대 시스템과 해당 엔진을 사용한 게임인 Dark Forces와 Outlaws에 맞게 역엔지니어링하고 재구축하는 것을 목표로 하는 프로젝트입니다. 이 프로젝트에는 레벨 편집기와 같은 현대적이고 내장된 도구가 포함되어 있으며, Dark Forces와 Outlaws를 현대 시스템에서 쉽게 플레이할 수 있을 뿐만 아니라 원래 게임에서 작동하도록 설계된 많은 커뮤니티 모드도 제공합니다.
 
-Playing Dark Forces or, in the future, Outlaws using the Force Engine will add ease of use and modern features such as higher resolutions and modern control schemes such as mouse-look. Using the built-in tools, once they are available, will allow for easier modding with more modern UI, greater flexibility and the ability to use enhancements made to the Jedi Engine for Outlaws in custom Dark Forces levels - such as slopes, stacked sectors, per-sector color maps and more.</systemDescription>
+Force Engine을 사용하여 Dark Forces 또는 향후 Outlaws를 플레이하면 사용 편의성과 고해상도 및 마우스 모양과 같은 현대적 제어 체계와 같은 현대적 기능이 추가됩니다. 내장된 도구가 제공되면 더 현대적인 UI, 더 큰 유연성 및 사용자 지정 Dark Forces 레벨에서 Outlaws를 위한 Jedi Engine에 적용된 개선 사항(예: 경사, 스택된 섹터, 섹터별 색상 맵 등)을 사용할 수 있는 기능으로 더 쉽게 모딩할 수 있습니다.</systemDescription>
       <systemManufacturer>luciusDXL</systemManufacturer>
       <systemReleaseYear>2022</systemReleaseYear>
       <systemReleaseDate>2022-12-19</systemReleaseDate>

@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>iD Tech</systemName>
-      <systemDescription>id Tech is a series of game engines designed and developed by id Software. Prior to the presentation of the id Tech 5 game Rage in 2011, the engines lacked official designation and as such were simply referred to as the Doom and Quake engines, from the name of the main game series the engines had been developed for.</systemDescription>
+      <systemDescription>id Tech는 id Software에서 설계하고 개발한 게임 엔진 시리즈입니다. 2011년 id Tech 5 게임 Rage가 출시되기 전까지 이 엔진은 공식 명칭이 없었고, 엔진이 개발된 주요 게임 시리즈의 이름에서 따서 Doom 및 Quake 엔진이라고 불렸습니다.</systemDescription>
       <systemManufacturer>id Software</systemManufacturer>
       <systemReleaseYear>1993</systemReleaseYear>
       <systemReleaseDate>1993-12-10</systemReleaseDate>

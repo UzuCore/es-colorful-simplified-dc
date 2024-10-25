@@ -1,11 +1,11 @@
 <theme>
    <variables>
       <systemName>Camputers Lynx</systemName>
-      <systemDescription>The Lynx was an 8-bit British home computer that was first released in early 1983 as a 48 kB model. Several models were available with 48 kB, 96 kB or 128 kB RAM. It was possible to reach 192 kB with RAM expansions on board. John Shireff designed the hardware and Davis Jansons the firmware.
+      <systemDescription>Lynx는 1983년 초에 48kB 모델로 처음 출시된 8비트 영국 가정용 컴퓨터였습니다. 48kB, 96kB 또는 128kB RAM이 있는 여러 모델이 출시되었습니다. RAM 확장을 통해 192kB에 도달할 수 있었습니다. John Shireff가 하드웨어를 설계했고 Davis Jansons가 펌웨어를 설계했습니다.
 
-The machine was based around a Z80A CPU clocked at 4 MHz (6 MHz for the 128/192 kB models) and featured a Motorola 6845 as video controller. It was possible to run CP/M with the optional 5.25" floppy disk-drive on the 96 kB and 128 kB models.
+이 기계는 4MHz(128/192kB 모델의 경우 6MHz)로 클록된 Z80A CPU를 기반으로 했으며 비디오 컨트롤러로 Motorola 6845를 탑재했습니다. 96kB 및 128kB 모델에서 옵션 5.25인치 플로피 디스크 드라이브로 CP/M을 실행할 수 있었습니다.
 
-The machine was quite advanced for its time. A 48k machine cost £225, a 96k machine £299 and a 128k machine £345. When compared to its competitors, such as the ZX Spectrum and the Oric 1, it was also fairly highly priced. Camputers rebranded and relaunched each machine on several occasions, with the 48k machine renamed the Leisure, and the 128k machine renamed as the Laureate.[9]</systemDescription>
+이 기계는 당시로서는 상당히 발전된 것이었습니다. 48k 기계는 225파운드, 96k 기계는 299파운드, 128k 기계는 345파운드였습니다. ZX Spectrum 및 Oric 1과 같은 경쟁 제품과 비교했을 때, 가격도 상당히 비쌌습니다. Camputers는 각 기계를 여러 차례 리브랜딩하고 재출시했으며, 48k 기계는 Leisure로, 128k 기계는 Laureate로 이름을 변경했습니다.[9]</systemDescription>
       <systemManufacturer>Camputers</systemManufacturer>
       <systemReleaseYear>1983</systemReleaseYear>
       <systemReleaseDate>1983</systemReleaseDate>

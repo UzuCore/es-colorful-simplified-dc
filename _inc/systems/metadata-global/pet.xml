@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Commodore PET</systemName>
-      <systemDescription>The Commodore PET is a line of personal computers produced starting in 1977 by Commodore International. A single all-in-one case combines a MOS Technology 6502 microprocessor, Commodore BASIC in read-only memory, keyboard, monochrome monitor, and, in early models, a cassette deck.</systemDescription>
+      <systemDescription>Commodore PET는 Commodore International에서 1977년부터 생산한 개인용 컴퓨터 제품군입니다. 단일 올인원 케이스는 MOS Technology 6502 마이크로프로세서, 읽기 전용 메모리의 Commodore BASIC, 키보드, 흑백 모니터, 초기 모델의 카세트 데크를 결합합니다.</systemDescription>
       <systemManufacturer>Commodore</systemManufacturer>
       <systemReleaseYear>1977</systemReleaseYear>
       <systemReleaseDate>1977-12-23</systemReleaseDate>

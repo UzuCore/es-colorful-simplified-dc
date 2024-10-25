@@ -1,11 +1,11 @@
 <theme>
    <variables>
       <systemName>Super Game Boy</systemName>
-      <systemDescription>The Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) is a peripheral that allows Game Boy cartridges to be played on a Super Nintendo Entertainment System console, compatible with the same cartridges as the original Game Boy: original Game Boy cartridges, the Game Boy Camera, and dual-mode Game Boy Color cartridges (in Game Boy-mode).
+      <systemDescription>슈퍼 게임보이(スーパーゲームボーイ, Sūpā Gēmu Bōi)는 게임보이 카트리지를 슈퍼 닌텐도 엔터테인먼트 시스템 콘솔에서 플레이할 수 있게 해주는 주변기기로, 오리지널 게임보이와 동일한 카트리지, 즉 오리지널 게임보이 카트리지, 게임보이 카메라, 듀얼 모드 게임보이 컬러 카트리지(게임보이 모드)와 호환됩니다.
 
-The unit could map the four shades of green to various colors on the screen. Later Game Boy games that were optimized to use the Super Game Boy had additional color information and could override the on-screen colors, display a graphical border around the screen, and display special background sprites. Those games would have printed a small "Super Game Boy Game Pak" logo on the box and cartridge. The adaptor could support up to 64 colors for the border, and 12 colors for the screen. Static screens could display all 10 colors. Certain games can load multiple borders depending on the player's location in the game.
+이 장치는 녹색의 네 가지 음영을 화면의 다양한 색상에 매핑할 수 있습니다. 슈퍼 게임보이를 사용하도록 최적화된 이후의 게임보이 게임은 추가 색상 정보를 제공했으며 화면 색상을 재정의하고 화면 주위에 그래픽 테두리를 표시하고 특수 배경 스프라이트를 표시할 수 있었습니다. 이러한 게임은 상자와 카트리지에 작은 "슈퍼 게임보이 게임 팩" 로고를 인쇄했을 것입니다. 어댑터는 테두리에 최대 64가지 색상, 화면에 12가지 색상을 지원할 수 있습니다. 정적 화면은 10가지 색상을 모두 표시할 수 있습니다. 특정 게임은 게임에서 플레이어의 위치에 따라 여러 테두리를 로드할 수 있습니다.
 
-It is also possible for Super Game Boy games to make use of the Super NES hardware for extra effects: these games had expanded sound when used with the Super Game Boy. Some titles even allowed the second Super NES controller to be used for two-player action; using the Super Multitap, some games even supported four players.</systemDescription>
+Super Game Boy 게임은 추가 효과를 위해 Super NES 하드웨어를 사용할 수도 있습니다. 이러한 게임은 Super Game Boy와 함께 사용할 때 사운드가 확장되었습니다. 일부 타이틀은 두 번째 Super NES 컨트롤러를 2인용 액션에 사용할 수 있도록 허용하기도 했습니다. Super Multitap을 사용하면 일부 게임은 4인용을 지원하기도 했습니다.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1994</systemReleaseYear>
       <systemReleaseDate>1994-06-28</systemReleaseDate>

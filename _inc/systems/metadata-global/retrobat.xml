@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Retrobat</systemName>
-      <systemDescription>Programs, scripts and utilities to manage the system and stand-alone emulators.</systemDescription>
+      <systemDescription>시스템과 독립형 에뮬레이터를 관리하기 위한 프로그램, 스크립트 및 유틸리티입니다.</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>

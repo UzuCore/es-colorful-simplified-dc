@@ -1,11 +1,11 @@
 <theme>
    <variables>
       <systemName>FinalBurn Alpha</systemName>
-      <systemDescription>This source-available project is based on FinalBurn, created by Dave in 2000. It has been programmed by a team composed of Barry Harris (Old username: TrebleWinner), Jan_Klaassen, KEV, LoopMaster, Mike Haggar, Hyper Yagami and Ayeye.
+      <systemDescription>이 소스 사용 가능 프로젝트는 2000년 Dave가 만든 FinalBurn을 기반으로 합니다. Barry Harris(이전 사용자 이름: TrebleWinner), Jan_Klaassen, KEV, LoopMaster, Mike Haggar, Hyper Yagami, Ayeye로 구성된 팀이 프로그래밍했습니다.
 
-FinalBurn was one of the first Capcom CPS2 emulators. When this project came to a halt in 2001, its sources were widely disseminated, allowing the development of many unofficial versions, of which FBA is the most successful.
+FinalBurn은 최초의 Capcom CPS2 에뮬레이터 중 하나였습니다. 이 프로젝트가 2001년에 중단되었을 때 소스가 널리 배포되어 많은 비공식 버전을 개발할 수 있었으며, 그 중 FBA가 가장 성공적입니다.
 
-Differentiated from other emulators by a very large number of supported systems, FB Alpha also offers a clear interface (simple like that of Kawaks) and excellent performance. The icing on the cake; it's not resource-intensive, and you don't need to indulge in complex settings to take it in hand immediately, although its menus are natively in English.</systemDescription>
+매우 많은 수의 지원 시스템으로 다른 에뮬레이터와 차별화된 FB Alpha는 또한 명확한 인터페이스(Kawaks와 같은 단순함)와 뛰어난 성능을 제공합니다. 장식은 리소스 집약적이지 않으며, 메뉴가 기본적으로 영어로 되어 있지만 복잡한 설정에 빠지지 않고도 바로 사용할 수 있다는 것입니다.</systemDescription>
       <systemManufacturer>FBA Team</systemManufacturer>
       <systemReleaseYear>2000</systemReleaseYear>
       <systemReleaseDate>2000</systemReleaseDate>

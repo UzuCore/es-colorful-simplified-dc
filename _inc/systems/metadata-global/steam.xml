@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Steam</systemName>
-      <systemDescription>Steam is a video game digital distribution service and storefront by Valve. It was launched as a software client in September 2003 as a way for Valve to provide automatic updates for their games, and expanded to distributing and offering third-party game publishers' titles in late 2005.</systemDescription>
+      <systemDescription>Steam은 Valve의 비디오 게임 디지털 배포 서비스이자 스토어프런트입니다. 2003년 9월 Valve가 자사 게임에 대한 자동 업데이트를 제공하는 방법으로 소프트웨어 클라이언트로 출시되었고, 2005년 후반에는 타사 게임 퍼블리셔의 타이틀을 배포하고 제공하는 것으로 확장되었습니다.</systemDescription>
       <systemManufacturer>Valve</systemManufacturer>
       <systemReleaseYear>2003</systemReleaseYear>
       <systemReleaseDate>2003-09-12</systemReleaseDate>

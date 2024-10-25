@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>Windows 3.X</systemName>
-      <systemDescription>Windows is a group of several proprietary graphical operating system families developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry. For example, Windows NT for consumers, Windows Server for servers, and Windows IoT for embedded systems. Defunct Windows families include Windows 9x, Windows Mobile, and Windows Phone.
+      <systemDescription>Windows는 Microsoft에서 개발하고 판매하는 여러 독점 그래픽 운영 체제 제품군의 그룹입니다. 각 제품군은 컴퓨팅 산업의 특정 부문에 맞춰져 있습니다. 예를 들어, 소비자용 Windows NT, 서버용 Windows Server, 임베디드 시스템용 Windows IoT가 있습니다. 더 이상 제공되지 않는 Windows 제품군에는 Windows 9x, Windows Mobile, Windows Phone이 있습니다.
 
-The first version of Windows was released on November 20, 1985, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).</systemDescription>
+Windows의 첫 번째 버전은 1985년 11월 20일에 그래픽 사용자 인터페이스(GUI)에 대한 관심이 커지면서 MS-DOS용 그래픽 운영 체제 셸로 출시되었습니다.</systemDescription>
       <systemManufacturer>Microsoft</systemManufacturer>
       <systemReleaseYear>1992</systemReleaseYear>
       <systemReleaseDate>1992-04-06</systemReleaseDate>

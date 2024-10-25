@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>Game Boy</systemName>
-      <systemDescription>The Game Boy is an 8-bit handheld game console developed and manufactured by Nintendo. It was first released in Japan on April 21, 1989, in North America later the same year, and in Europe in late 1990. It was designed by the same team that developed the Game &amp; Watch series of handheld electronic games and several Nintendo Entertainment System (NES) games: Satoru Okada, Gunpei Yokoi, and Nintendo Research &amp; Development 1.
+      <systemDescription>게임보이는 닌텐도가 개발하고 제조한 8비트 핸드헬드 게임 콘솔입니다. 1989년 4월 21일 일본에서 처음 출시되었고, 같은 해 말에 북미에서 출시되었으며, 1990년 후반에 유럽에서 출시되었습니다. 게임보이는 핸드헬드 전자 게임 시리즈인 Game & Watch와 여러 닌텐도 엔터테인먼트 시스템(NES) 게임을 개발한 팀인 사토루 오카다, 군페이 요코이, 닌텐도 리서치 앤 디벨롭먼트 1에서 디자인했습니다.
 
-It was the first handheld game to use video game cartridges since Milton Bradley's Microvision handheld console. Despite many other, technologically superior handheld consoles introduced during its lifetime, the Game Boy was a tremendous success. The Game Boy and Game Boy Color combined have sold 118 million units worldwide. Upon its release in the United States, it sold its entire shipment of one million units within weeks.</systemDescription>
+밀튼 브래들리의 마이크로비전 핸드헬드 콘솔 이후로 비디오 게임 카트리지를 사용한 최초의 핸드헬드 게임이었습니다. 게임보이는 출시 당시에 기술적으로 뛰어난 다른 많은 핸드헬드 콘솔이 출시되었지만 엄청난 성공을 거두었습니다. 게임보이와 게임보이 컬러는 전 세계적으로 1억 1,800만 대가 판매되었습니다. 미국에서 출시되자마자 100만 대의 전체 출하량이 몇 주 만에 판매되었습니다.</systemDescription>
       <systemDescriptionSource>https://en.wikipedia.org/wiki/Game_Boy</systemDescriptionSource>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1989</systemReleaseYear>

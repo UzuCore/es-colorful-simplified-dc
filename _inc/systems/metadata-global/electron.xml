@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Acorn Electron</systemName>
-      <systemDescription>The Acorn Electron (nicknamed the Elk inside Acorn and beyond) was a lower-cost alternative to the BBC Micro educational/home computer, also developed by Acorn Computers Ltd, to provide many of the features of that more expensive machine at a price more competitive with that of the ZX Spectrum. It had 32 kilobytes of RAM, and its ROM included BBC BASIC II together with the operating system. Announced in 1982 for a possible release the same year, it was eventually introduced on 25 August 1983 priced at £199</systemDescription>
+      <systemDescription>Acorn Electron(Acorn 내부와 그 너머에서 Elk라는 별명으로 불림)은 Acorn Computers Ltd에서 개발한 BBC Micro 교육/가정용 컴퓨터에 비해 저렴한 대안으로, 더 비싼 기계의 많은 기능을 ZX Spectrum보다 경쟁력 있는 가격으로 제공했습니다. RAM은 32킬로바이트이고 ROM에는 운영 체제와 함께 BBC BASIC II가 포함되었습니다. 1982년에 같은 해에 출시될 가능성이 있다고 발표되었고, 결국 1983년 8월 25일에 199파운드의 가격으로 출시되었습니다.</systemDescription>
       <systemManufacturer>Acorn</systemManufacturer>
       <systemReleaseYear>1983</systemReleaseYear>
       <systemReleaseDate>1983-10-25</systemReleaseDate>

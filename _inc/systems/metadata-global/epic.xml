@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Epic Games Store</systemName>
-      <systemDescription>The Epic Games Store is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games. It launched in December 2018 as both a website and a standalone launcher, of which the latter is required to download and play games. The storefront provides a basic catalog, friends list management, matchmaking, and other features. Epic Games has further plans to expand the feature set of the storefront but it does not plan to add as many features as other digital distribution platforms, such as discussion boards or user reviews, instead using existing social media platforms to support these.</systemDescription>
+      <systemDescription>Epic Games Store는 Epic Games에서 운영하는 Microsoft Windows 및 macOS용 디지털 비디오 게임 스토어프런트입니다. 2018년 12월에 웹사이트와 독립 실행형 런처로 출시되었으며, 후자는 게임을 다운로드하고 플레이하는 데 필요합니다. 스토어프런트는 기본 카탈로그, 친구 목록 관리, 매치메이킹 및 기타 기능을 제공합니다. Epic Games는 스토어프런트의 기능 세트를 확장할 계획이지만 토론 게시판이나 사용자 리뷰와 같은 다른 디지털 배포 플랫폼만큼 많은 기능을 추가할 계획은 없으며, 대신 기존 소셜 미디어 플랫폼을 사용하여 이를 지원할 계획입니다.</systemDescription>
       <systemManufacturer>Epic</systemManufacturer>
       <systemReleaseYear>2018</systemReleaseYear>
       <systemReleaseDate>2018-12</systemReleaseDate>

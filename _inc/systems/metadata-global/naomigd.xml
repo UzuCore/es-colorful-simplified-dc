@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>Naomi GD-ROM</systemName>
-      <systemDescription>The NAOMI (New Arcade Operation Machine Idea) is an arcade system released by Sega in 1998. It was designed as a successor to Sega Model 3 hardware, using a similar architecture to the Sega Dreamcast.
+      <systemDescription>NAOMI(New Arcade Operation Machine Idea)는 세가가 1998년에 출시한 아케이드 시스템입니다. 세가 드림캐스트와 유사한 아키텍처를 사용하여 세가 모델 3 하드웨어의 후속 제품으로 설계되었습니다.
 
-The NAOMI was succeeded by the Sega Hikaru and Sega NAOMI 2 boards, though having out-lasted the NAOMI 2, Hikaru and Sega Aurora. The Sega Chihiro, or possibly even the Sega Lindbergh, could also be seen as successors.</systemDescription>
+NAOMI는 세가 히카루와 세가 나오미 2 보드로 이어졌지만, 나오미 2, 히카루, 세가 오로라보다 오래 지속되었습니다. 세가 치히로, 또는 세가 린드버그도 후속 제품으로 볼 수 있습니다.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1998</systemReleaseYear>
       <systemReleaseDate>1998-01-01</systemReleaseDate>

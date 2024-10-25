@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>Macintosh</systemName>
-      <systemDescription>The Macintosh (mainly Mac since 1998) is a family of personal computers designed, manufactured, and sold by Apple Inc. (originally as Apple Computer, Inc.) since January 1984.
+      <systemDescription>매킨토시(1998년 이후 주로 Mac)는 Apple Inc.(원래는 Apple Computer, Inc.)가 1984년 1월부터 설계, 제조, 판매한 개인용 컴퓨터 제품군입니다.
 
-The original Macintosh is the first successful mass-market all-in-one desktop personal computer to have featured a graphical user interface, built-in screen, and mouse. Apple sold the Macintosh alongside its popular Apple II, Apple IIGS, Apple III, and Apple Lisa families of computers until the other models were discontinued in the 1990s.</systemDescription>
+원래의 매킨토시는 그래픽 사용자 인터페이스, 내장 화면, 마우스를 특징으로 한 최초의 성공적인 대중형 올인원 데스크톱 개인용 컴퓨터입니다. Apple은 1990년대에 다른 모델이 단종될 때까지 인기 있는 Apple II, Apple IIGS, Apple III, Apple Lisa 제품군과 함께 매킨토시를 판매했습니다.</systemDescription>
       <systemManufacturer>Apple</systemManufacturer>
       <systemReleaseYear>1984</systemReleaseYear>
       <systemReleaseDate>1984-01</systemReleaseDate>

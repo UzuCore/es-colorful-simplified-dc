@@ -1,11 +1,11 @@
 <theme>
    <variables>
       <systemName>Game &amp; Watch</systemName>
-      <systemDescription>The Game &amp; Watch is a series of handheld electronic games developed, manufactured, released and marketed by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, the product derived its name from its featuring a single game as well as a clock on a LCD screen. The models from 1981 onwards featured an alarm in addition. It was the earliest Nintendo video game product to gain major success.
+      <systemDescription>게임 &amp; 워치는 닌텐도가 1980년부터 1991년까지 개발, 제조, 출시, 마케팅한 일련의 핸드헬드 전자 게임입니다. 게임 디자이너인 군페이 요코이가 만든 이 제품은 단일 게임과 LCD 화면에 시계가 있는 데서 이름을 따왔습니다. 1981년 이후의 모델에는 알람이 추가로 포함되었습니다. 큰 성공을 거둔 최초의 닌텐도 비디오 게임 제품이었습니다.
 
-The units are based on a 4-bit CPU, from the Sharp SM5xx family, that include a small ROM and RAM area and an LCD screen driver circuit, although, prior to its simulation in MAME, there was a misconception in that every unit used a custom ASIC instead of a proper microcontroller.
+이 장치는 샤프 SM5xx 제품군의 4비트 CPU를 기반으로 하며, 여기에는 작은 ROM 및 RAM 영역과 LCD 화면 드라이버 회로가 포함되어 있지만, MAME에서 시뮬레이션하기 전에는 모든 장치가 적절한 마이크로컨트롤러 대신 맞춤형 ASIC를 사용한다는 오해가 있었습니다.
 
-The series sold a combined of 43.4 million units worldwide.</systemDescription>
+이 시리즈는 전 세계적으로 4,340만 대가 판매되었습니다.</systemDescription>
       <systemDescriptionSource>https://en.wikipedia.org/wiki/Game_%26_Watch</systemDescriptionSource>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1980</systemReleaseYear>

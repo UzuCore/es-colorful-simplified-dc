@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Google Android</systemName>
-      <systemDescription>Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is developed by a consortium of developers known as the Open Handset Alliance, though its most widely used version is primarily developed by Google. It was unveiled in November 2007, with the first commercial Android device, the HTC Dream, being launched in September 2008.</systemDescription>
+      <systemDescription>안드로이드는 Linux 커널과 기타 오픈소스 소프트웨어의 수정 버전을 기반으로 하는 모바일 운영 체제로, 주로 스마트폰과 태블릿과 같은 터치스크린 모바일 기기를 위해 설계되었습니다. 안드로이드는 Open Handset Alliance라는 개발자 컨소시엄에서 개발했지만, 가장 널리 사용되는 버전은 주로 Google에서 개발했습니다. 2007년 11월에 공개되었고, 최초의 상업용 안드로이드 기기인 HTC Dream은 2008년 9월에 출시되었습니다.</systemDescription>
       <systemManufacturer>Google</systemManufacturer>
       <systemReleaseYear>2008</systemReleaseYear>
       <systemReleaseDate>2008-09-23</systemReleaseDate>

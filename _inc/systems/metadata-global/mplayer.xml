@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Media Player</systemName>
-      <systemDescription>Powered by MPV a free, open source, and cross-platform media player.</systemDescription>
+      <systemDescription>무료, 오픈 소스, 크로스 플랫폼 미디어 플레이어인 MPV를 기반으로 합니다.</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>

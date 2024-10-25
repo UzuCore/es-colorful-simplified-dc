@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Apple IIGS</systemName>
-      <systemDescription>The Apple IIGS is a personal computer released by Apple Computer on September 15, 1986 that's compatible with the Apple II series, but otherwise has capabilities comparable to the Atari ST, Commodore Amiga, and Macintosh. The "GS" in the name stands for "Graphics" and "Sound," referring to its enhanced multimedia hardware, especially its state of the art sound and music synthesis. The machine is a radical departure from any previous Apple II, with its 16-bit processor, direct access to megabytes of RAM, and mouse. It's the first computer produced by Apple to use a color graphical user interface (color was introduced on the Macintosh II six months later) and Apple Desktop Bus interface for keyboards, mice, and other input devices. It is the first personal computer to come with a built-in wavetable synthesis chip, utilizing technology from Ensoniq.</systemDescription>
+      <systemDescription>Apple IIGS는 Apple Computer에서 1986년 9월 15일에 출시한 개인용 컴퓨터로 Apple II 시리즈와 호환되지만, 그 외에는 Atari ST, Commodore Amiga, Macintosh와 비슷한 기능을 갖추고 있습니다. 이름의 "GS"는 "그래픽"과 "사운드"를 의미하며, 특히 최첨단 사운드와 음악 합성을 비롯한 향상된 멀티미디어 하드웨어를 의미합니다. 이 기계는 16비트 프로세서, 메가바이트 RAM에 직접 액세스, 마우스를 탑재하여 이전의 모든 Apple II와는 근본적으로 다릅니다. Apple에서 생산한 최초의 컴퓨터로, 컬러 그래픽 사용자 인터페이스(컬러는 6개월 후 Macintosh II에 도입됨)와 키보드, 마우스, 기타 입력 장치에 Apple Desktop Bus 인터페이스를 사용합니다. Ensoniq의 기술을 활용한 내장 웨이브테이블 합성 칩이 탑재된 최초의 개인용 컴퓨터입니다.</systemDescription>
       <systemManufacturer>Apple</systemManufacturer>
       <systemReleaseYear>1986</systemReleaseYear>
       <systemReleaseDate>1986-09-15</systemReleaseDate>

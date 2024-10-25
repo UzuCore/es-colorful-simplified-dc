@@ -1,9 +1,9 @@
 <theme>
    <variables>
       <systemName>Famicom Disk System</systemName>
-      <systemDescription>The Family Computer Disk System, commonly shortened to the Famicom Disk System or just Disk System, is a peripheral for Nintendo's Family Computer home video game console, released only in Japan on February 21, 1986. It uses proprietary floppy disks called "Disk Cards" for cheaper data storage and it adds a new high-fidelity sound channel for supporting Disk System games.
+      <systemDescription>패밀리 컴퓨터 디스크 시스템은 일반적으로 패미컴 디스크 시스템 또는 디스크 시스템으로 줄여서 부르며, 닌텐도의 패밀리 컴퓨터 홈 비디오 게임 콘솔용 주변 기기로, 1986년 2월 21일 일본에서만 출시되었습니다. 저렴한 데이터 저장을 위해 "디스크 카드"라는 독점 플로피 디스크를 사용하고 디스크 시스템 게임을 지원하기 위해 새로운 고음질 사운드 채널을 추가합니다.
 
-Fundamentally, the Disk System serves simply to enhance some aspects already inherent to the base Famicom system, with better sound and cheaper games—though with the disadvantages of high initial price, slow speed, and lower reliability. However, this boost to the market of affordable and writable mass storage temporarily served as an enabling technology for the creation of new types of video games. This includes the vast, open world, progress-saving adventures of the best-selling The Legend of Zelda (1986) and Metroid (1986), games with a cost-effective and swift release such as the best-selling Super Mario Bros. 2, and nationwide leaderboards and contests via the in-store Disk Fax kiosks, which are considered to be forerunners of today's online achievement and distribution systems.</systemDescription>
+근본적으로 디스크 시스템은 더 나은 사운드와 저렴한 게임으로 기본 패미컴 시스템에 이미 내재되어 있는 몇 가지 측면을 향상시키는 역할을 하지만, 초기 가격이 높고 속도가 느리며 안정성이 낮다는 단점이 있습니다. 그러나 저렴하고 쓰기 가능한 대용량 스토리지 시장의 이러한 성장은 일시적으로 새로운 유형의 비디오 게임을 만드는 데 도움이 되는 기술로 사용되었습니다. 여기에는 베스트셀러인 젤다의 전설(1986)과 메트로이드(1986)의 광활하고 오픈 월드, 진행 저장 모험 모드, 베스트셀러인 슈퍼 마리오브라더스 2와 같은 비용 효율적이고 신속한 출시 게임, 오늘날 온라인 업적 및 배포 시스템의 선구자로 간주되는 매장 내 디스크 팩스 키오스크를 통한 전국 순위표 및 콘테스트가 포함됩니다.</systemDescription>
       <systemDescriptionSource>https://en.wikipedia.org/wiki/Famicom_Disk_System</systemDescriptionSource>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1986</systemReleaseYear>

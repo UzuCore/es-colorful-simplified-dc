@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Commodore 64</systemName>
-      <systemDescription>The Commodore 64 is an 8-bit home computer introduced in January 1982 by Commodore International. It is listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units. Volume production started in early 1982, marketing in August for US$595 (equivalent to $1,461 in 2015). Preceded by the Commodore VIC-20 and Commodore PET, the C64 took its name from its 64 kilobytes (65,536 bytes) of RAM. It had superior sound and graphical specifications compared to other earlier systems such as the Apple II and Atari 800, with multi-color sprites and a more advanced sound processor.</systemDescription>
+      <systemDescription>Commodore 64는 1982년 1월 Commodore International에서 출시한 8비트 홈 컴퓨터입니다. 기네스 세계 기록에 역대 가장 많이 팔린 단일 컴퓨터 모델로 등재되어 있으며, 독립적인 추정에 따르면 판매된 대수는 1,000만 대에서 1,700만 대 사이입니다. 양산은 1982년 초에 시작되어 8월에 595달러(2015년 가치로 1,461달러)에 판매되었습니다. Commodore VIC-20과 Commodore PET에 앞서 C64는 64킬로바이트(65,536바이트)의 RAM에서 이름을 따왔습니다. Apple II와 Atari 800과 같은 다른 초기 시스템에 비해 사운드와 그래픽 사양이 뛰어났으며, 멀티 컬러 스프라이트와 더욱 진보된 사운드 프로세서가 탑재되었습니다.</systemDescription>
       <systemManufacturer>Commodore</systemManufacturer>
       <systemReleaseYear>1982</systemReleaseYear>
       <systemReleaseDate>1982-01-01</systemReleaseDate>
