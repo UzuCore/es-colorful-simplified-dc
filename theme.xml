@@ -25,8 +25,8 @@ license:       creative commons CC-BY-NC-SA
    ///
    -->
    <subset name="distribution" displayName="배포판">
-      <include name="jelos" displayName="JELOS" />
-	  <include name="batocera" displayName="Batocera" />
+      <include name="batocera" displayName="Batocera/Knulli" />
+      <include name="rocknix" displayName="RockNIX" />
       <include name="retrobat" displayName="Retrobat" />
    </subset>
 
@@ -46,29 +46,29 @@ license:       creative commons CC-BY-NC-SA
       <menuFontLight>./_inc/fonts/NanumSquareNeo-aLt.ttf</menuFontLight>
       <menuFontRegular>./_inc/fonts/NanumSquareNeo-bRg.ttf</menuFontRegular>
       <distributionPath ifSubset="distribution:retrobat">~/.emulationstation/</distributionPath><!-- RetroBat\emulationstation\.emulationstation\ -->
-      <distributionPath ifSubset="distribution:jelos">~/roms/jelos/</distributionPath><!-- storage/roms/jelos/ -->
+      <distributionPath ifSubset="distribution:rocknix">~/</distributionPath>
       <distributionPath ifSubset="distribution:batocera">./../../</distributionPath><!-- userdata/ -->
       <themeCustomizationsPath>${distributionPath}theme-customizations/colorful-simplified/</themeCustomizationsPath>
 	  <font_menutitle>0.038</font_menutitle>
-      <font_menutitle ifSubset="aspect-ratio:3-2" >0.038</font_menutitle>
       <font_menutitle ifSubset="aspect-ratio:4-3" >0.038</font_menutitle>
-      <font_menutitle ifSubset="aspect-ratio:5-3" >0.038</font_menutitle>
+      <font_menutitle ifSubset="aspect-ratio:3-2" >0.038</font_menutitle>
+      <font_menutitle ifSubset="aspect-ratio:1-1" >0.038</font_menutitle>
       <font_menufooter>0.025</font_menufooter>
-      <font_menufooter ifSubset="aspect-ratio:3-2" >0.025</font_menufooter>
       <font_menufooter ifSubset="aspect-ratio:4-3" >0.025</font_menufooter>
-      <font_menufooter ifSubset="aspect-ratio:5-3" >0.025</font_menufooter>
+      <font_menufooter ifSubset="aspect-ratio:3-2" >0.025</font_menufooter>
+      <font_menufooter ifSubset="aspect-ratio:1-1" >0.025</font_menufooter>
       <font_menutext>0.042</font_menutext>
+      <font_menutext ifSubset="aspect-ratio:4-3" >0.042</font_menutext>
       <font_menutext ifSubset="aspect-ratio:3-2" >0.042</font_menutext>
-      <font_menutext ifSubset="aspect-ratio:4-3" >0.043</font_menutext>
-      <font_menutext ifSubset="aspect-ratio:5-3" >0.044</font_menutext>
+      <font_menutext ifSubset="aspect-ratio:1-1" >0.042</font_menutext>
       <font_menutextsmall>0.040</font_menutextsmall>
-      <font_menutextsmall ifSubset="aspect-ratio:3-2" >0.020</font_menutextsmall>
-      <font_menutextsmall ifSubset="aspect-ratio:4-3" >0.026</font_menutextsmall>
-      <font_menutextsmall ifSubset="aspect-ratio:5-3" >0.022</font_menutextsmall>
+      <font_menutextsmall ifSubset="aspect-ratio:4-3" >0.040</font_menutextsmall>
+      <font_menutextsmall ifSubset="aspect-ratio:3-2" >0.040</font_menutextsmall>
+      <font_menutextsmall ifSubset="aspect-ratio:1-1" >0.040</font_menutextsmall>
       <font_menugroup>0.038</font_menugroup>
-      <font_menugroup ifSubset="aspect-ratio:3-2" >0.038</font_menugroup>
       <font_menugroup ifSubset="aspect-ratio:4-3" >0.038</font_menugroup>
-      <font_menugroup ifSubset="aspect-ratio:5-3" >0.038</font_menugroup>
+      <font_menugroup ifSubset="aspect-ratio:3-2" >0.038</font_menugroup>
+      <font_menugroup ifSubset="aspect-ratio:1-1" >0.038</font_menugroup>
    </variables>
 
    <!--
@@ -76,7 +76,7 @@ license:       creative commons CC-BY-NC-SA
    Subset: Aspect Ratio
    ///
    -->
-   <subset name="aspect-ratio" displayName="화면비">
+   <subset name="aspect-ratio" displayName="화면비율">
       <include name="16-9" displayName="16:9" />
       <!--<include name="16-10" displayName="16:10" />
       <include name="4-3" displayName="4:3" />
@@ -90,7 +90,7 @@ license:       creative commons CC-BY-NC-SA
    Subset: Color Scheme
    ///
    -->
-   <subset name="color-scheme" displayName="컬러셋">
+   <subset name="color-scheme" displayName="컬러세트">
       <include name="colorful" displayName="Colorful" />
       <include name="light" displayName="Light" />
       <include name="retro-bright" displayName="RetroBright" />
@@ -107,7 +107,7 @@ license:       creative commons CC-BY-NC-SA
    -->
    <subset name="font-size" displayName="폰트크기">
       <include name="large" displayName="크게" />
-      <include name="medium" displayName="보통" />
+      <include name="medium" displayName="기본" />
    </subset>
 
    <!--
@@ -115,7 +115,7 @@ license:       creative commons CC-BY-NC-SA
    Subset: Gamelist View Style
    ///
    -->
-   <subset name="gamelist-view-style" displayName="게임목록 보기">
+   <subset name="gamelist-view-style" displayName="게임설명">
       <include name="metadata-off" displayName="설명 끄기" />
       <include name="metadata-on" displayName="설명 켜기" />
    </subset>
@@ -534,6 +534,8 @@ license:       creative commons CC-BY-NC-SA
    ///
    -->
    <include ifSubset="aspect-ratio:16-9">./aspect-ratio-16-9.xml</include>
+   <include ifSubset="aspect-ratio:4-3">./aspect-ratio-1-1.xml</include>
+   <include ifSubset="aspect-ratio:3-2">./aspect-ratio-1-1.xml</include>
    <include ifSubset="aspect-ratio:1-1">./aspect-ratio-1-1.xml</include>
 
 </theme>
